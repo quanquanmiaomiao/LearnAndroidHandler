@@ -11,6 +11,8 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private TextView result;
+    
+    // hello world
     /**
      * Handler处理消息的三种方式
      **/
